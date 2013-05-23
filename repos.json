@@ -1,0 +1,54 @@
+[
+  {"repo": "documentcloud/backbone", "tags": ["javascript", "mv*"], "total": 601, "merged": 477}
+  {"repo": "chaplinjs/chaplin", "tags": ["coffeescript", "mv*"], "total": 256, "merged": 204},
+  {"repo": "marionettejs/backbone.marionette", "tags": ["javascript", "mv*"]},
+  {"repo": "aurajs/aura", "tags": ["javascript", "mv*"]},
+  {"repo": "emberjs/ember.js", "tags": ["javascript", "mv*"]},
+  {"repo": "angular/angular.js", "tags": ["javascript", "mv*"], "total": 1069, "merged": 164},
+
+  {"repo": "visionmedia/express", "tags": ["javascript", "node.js", "micro framework"]},
+  {"repo": "mitsuhiko/flask", "tags": ["python", "micro framework"]},
+  {"repo": "sinatra/sinatra", "tags": ["ruby", "micro framework"]},
+  {"repo": "scalatra/scalatra", "tags": ["scala", "micro framework"]},
+
+  {"repo": "visionmedia/jade", "tags": ["javascript", "template engine"]},
+  {"repo": "wycats/handlebars.js", "tags": ["javascript", "template engine"]},
+
+  {"repo": "cloudhead/less.js", "tags": ["javascript", "stylesheet language"]},
+  {"repo": "LearnBoost/stylus", "tags": ["javascript", "stylesheet language"]},
+  {"repo": "nex3/sass", "tags": ["javascript", "stylesheet language"]},
+
+  {"repo": "torvalds/linux", "tags": ["linus"]},
+  {"repo": "torvalds/git", "tags": ["linus"]},
+
+  {"repo": "visionmedia/mocha", "tags": ["javascript", "testing framework"]},
+  {"repo": "pivotal/jasmine", "tags": ["javascript", "testing framework"]},
+
+  {"repo": "antirez/redis", "tags": ["c", "database"]},
+  {"repo": "elasticsearch/elasticsearch", "tags": ["java", "database"]},
+
+  {"repo": "jashkenas/coffee-script", "tags": ["coffeescript", "language"], "total": 380, "merged": 215},
+  {"repo": "scala/scala", "tags": ["scala", "language"], "total": 2428, "merged": 1808},
+
+  {"repo": "symfony/symfony", "tags": ["php", "mv*"]},
+  {"repo": "zendframework/zf2", "tags": ["php", "mv*"]},
+  {"repo": "mrdoob/three.js", "tags": ["javascript", "3d"]},
+
+  {"repo": "kennethreitz/requests", "tags": ["python", "http"]},
+  {"repo": "mikeal/request", "tags": ["javascript", "node.js", "http"]},
+
+  {"repo": "rails/rails", "tags": ["ruby", "mv*"], "total": 6225, "merged": 4039},
+
+  {"repo": "addyosmani/backbone-fundamentals", "tags": ["book"], "total": 274, "merged": 239},
+  {"repo": "documentcloud/underscore", "tags": ["javascript", "util"], "total": 487, "merged": 178},
+  {"repo": "bestiejs/lodash", "tags": ["javascript", "util"], "total": 48, "merged": 18},
+
+  {"repo": "gruntjs/grunt", "tags": ["javascript", "build tool"], "total": 208, "merged": 27},
+  {"repo": "brunch/brunch", "tags": ["javascript", "build tool"], "total": 113, "merged": 71},
+
+  {"repo": "joyent/node", "tags": ["javascript", "node.js"], "total": 1845, "merged": 112},
+
+  {"repo": "petdance/ack", "tags": ["perl", "util"]},
+  {"repo": "", "tags": []},
+
+]

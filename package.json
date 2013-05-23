@@ -1,0 +1,19 @@
+{
+  "name": "conservative",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "cheerio": "~0.11.0",
+    "range.js": "~1.1.0",
+    "when": "~2.0.1",
+    "superagent": "~0.14.1",
+    "batch": "~0.3.2"
+  }
+}
