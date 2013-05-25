@@ -1,54 +1,415 @@
 [
-  {"repo": "documentcloud/backbone", "tags": ["javascript", "mv*"], "total": 601, "merged": 477}
-  {"repo": "chaplinjs/chaplin", "tags": ["coffeescript", "mv*"], "total": 256, "merged": 204},
-  {"repo": "marionettejs/backbone.marionette", "tags": ["javascript", "mv*"]},
-  {"repo": "aurajs/aura", "tags": ["javascript", "mv*"]},
-  {"repo": "emberjs/ember.js", "tags": ["javascript", "mv*"]},
-  {"repo": "angular/angular.js", "tags": ["javascript", "mv*"], "total": 1069, "merged": 164},
-
-  {"repo": "visionmedia/express", "tags": ["javascript", "node.js", "micro framework"]},
-  {"repo": "mitsuhiko/flask", "tags": ["python", "micro framework"]},
-  {"repo": "sinatra/sinatra", "tags": ["ruby", "micro framework"]},
-  {"repo": "scalatra/scalatra", "tags": ["scala", "micro framework"]},
-
-  {"repo": "visionmedia/jade", "tags": ["javascript", "template engine"]},
-  {"repo": "wycats/handlebars.js", "tags": ["javascript", "template engine"]},
-
-  {"repo": "cloudhead/less.js", "tags": ["javascript", "stylesheet language"]},
-  {"repo": "LearnBoost/stylus", "tags": ["javascript", "stylesheet language"]},
-  {"repo": "nex3/sass", "tags": ["javascript", "stylesheet language"]},
-
-  {"repo": "torvalds/linux", "tags": ["linus"]},
-  {"repo": "torvalds/git", "tags": ["linus"]},
-
-  {"repo": "visionmedia/mocha", "tags": ["javascript", "testing framework"]},
-  {"repo": "pivotal/jasmine", "tags": ["javascript", "testing framework"]},
-
-  {"repo": "antirez/redis", "tags": ["c", "database"]},
-  {"repo": "elasticsearch/elasticsearch", "tags": ["java", "database"]},
-
-  {"repo": "jashkenas/coffee-script", "tags": ["coffeescript", "language"], "total": 380, "merged": 215},
-  {"repo": "scala/scala", "tags": ["scala", "language"], "total": 2428, "merged": 1808},
-
-  {"repo": "symfony/symfony", "tags": ["php", "mv*"]},
-  {"repo": "zendframework/zf2", "tags": ["php", "mv*"]},
-  {"repo": "mrdoob/three.js", "tags": ["javascript", "3d"]},
-
-  {"repo": "kennethreitz/requests", "tags": ["python", "http"]},
-  {"repo": "mikeal/request", "tags": ["javascript", "node.js", "http"]},
-
-  {"repo": "rails/rails", "tags": ["ruby", "mv*"], "total": 6225, "merged": 4039},
-
-  {"repo": "addyosmani/backbone-fundamentals", "tags": ["book"], "total": 274, "merged": 239},
-  {"repo": "documentcloud/underscore", "tags": ["javascript", "util"], "total": 487, "merged": 178},
-  {"repo": "bestiejs/lodash", "tags": ["javascript", "util"], "total": 48, "merged": 18},
-
-  {"repo": "gruntjs/grunt", "tags": ["javascript", "build tool"], "total": 208, "merged": 27},
-  {"repo": "brunch/brunch", "tags": ["javascript", "build tool"], "total": 113, "merged": 71},
-
-  {"repo": "joyent/node", "tags": ["javascript", "node.js"], "total": 1845, "merged": 112},
-
-  {"repo": "petdance/ack", "tags": ["perl", "util"]},
-  {"repo": "", "tags": []},
-
+  {
+    "repo": "AFNetworking/AFNetworking",
+    "tags": [
+      "objective-c",
+      "http"
+    ],
+    "closed": 224,
+    "merged": 201
+  },
+  {
+    "repo": "LearnBoost/stylus",
+    "tags": [
+      "javascript",
+      "stylesheet language"
+    ],
+    "closed": 53,
+    "merged": 125
+  },
+  {
+    "repo": "NancyFx/Nancy",
+    "tags": [
+      "c#",
+      "http"
+    ],
+    "closed": 171,
+    "merged": 518
+  },
+  {
+    "repo": "RestKit/RestKit",
+    "tags": [
+      "objective-c",
+      "rest"
+    ],
+    "closed": 238,
+    "merged": 108
+  },
+  {
+    "repo": "addyosmani/backbone-fundamentals",
+    "tags": [
+      "book"
+    ],
+    "closed": 35,
+    "merged": 239
+  },
+  {
+    "repo": "akka/akka",
+    "tags": [
+      "scala",
+      "distributed framework"
+    ]
+  },
+  {
+    "repo": "angular/angular.js",
+    "tags": [
+      "javascript",
+      "mv*"
+    ],
+    "closed": 905,
+    "merged": 164
+  },
+  {
+    "repo": "antirez/redis",
+    "tags": [
+      "c",
+      "database"
+    ],
+    "closed": 136,
+    "merged": 106
+  },
+  {
+    "repo": "aurajs/aura",
+    "tags": [
+      "javascript",
+      "mv*"
+    ],
+    "closed": 29,
+    "merged": 80
+  },
+  {
+    "repo": "bestiejs/lodash",
+    "tags": [
+      "javascript",
+      "util"
+    ],
+    "closed": 30,
+    "merged": 18
+  },
+  {
+    "repo": "brunch/brunch",
+    "tags": [
+      "javascript",
+      "build tool"
+    ],
+    "closed": 42,
+    "merged": 71
+  },
+  {
+    "repo": "chaplinjs/chaplin",
+    "tags": [
+      "coffeescript",
+      "mv*"
+    ],
+    "closed": 52,
+    "merged": 204
+  },
+  {
+    "repo": "cloudhead/less.js",
+    "tags": [
+      "javascript",
+      "stylesheet language"
+    ],
+    "closed": 231,
+    "merged": 64
+  },
+  {
+    "repo": "documentcloud/backbone",
+    "tags": [
+      "javascript",
+      "mv*"
+    ],
+    "closed": 124,
+    "merged": 477
+  },
+  {
+    "repo": "documentcloud/underscore",
+    "tags": [
+      "javascript",
+      "util"
+    ],
+    "closed": 309,
+    "merged": 178
+  },
+  {
+    "repo": "elasticsearch/elasticsearch",
+    "tags": [
+      "java",
+      "database"
+    ],
+    "closed": 351,
+    "merged": 44
+  },
+  {
+    "repo": "emberjs/ember.js",
+    "tags": [
+      "javascript",
+      "mv*"
+    ],
+    "closed": 340,
+    "merged": 925
+  },
+  {
+    "repo": "evancz/Elm",
+    "tags": [
+      "haskell",
+      "language"
+    ],
+    "closed": 11,
+    "merged": 46
+  },
+  {
+    "repo": "facebook/hiphop-php",
+    "tags": [
+      "c++",
+      "transpiler"
+    ],
+    "closed": 50,
+    "merged": 12
+  },
+  {
+    "repo": "faylang/fay",
+    "tags": [
+      "haskell",
+      "language"
+    ],
+    "closed": 41,
+    "merged": 34
+  },
+  {
+    "repo": "gruntjs/grunt",
+    "tags": [
+      "javascript",
+      "build tool"
+    ],
+    "closed": 181,
+    "merged": 27
+  },
+  {
+    "repo": "jashkenas/coffee-script",
+    "tags": [
+      "coffeescript",
+      "language"
+    ],
+    "closed": 165,
+    "merged": 215
+  },
+  {
+    "repo": "joyent/node",
+    "tags": [
+      "javascript",
+      "node.js"
+    ],
+    "closed": 1733,
+    "merged": 112
+  },
+  {
+    "repo": "kennethreitz/requests",
+    "tags": [
+      "python",
+      "http"
+    ],
+    "closed": 188,
+    "merged": 475
+  },
+  {
+    "repo": "kraih/mojo",
+    "tags": [
+      "perl",
+      "web framework"
+    ],
+    "closed": 162,
+    "merged": 58
+  },
+  {
+    "repo": "marionettejs/backbone.marionette",
+    "tags": [
+      "javascript",
+      "mv*"
+    ],
+    "closed": 106,
+    "merged": 151
+  },
+  {
+    "repo": "mikeal/request",
+    "tags": [
+      "javascript",
+      "node.js",
+      "http"
+    ],
+    "closed": 70,
+    "merged": 132
+  },
+  {
+    "repo": "mitsuhiko/flask",
+    "tags": [
+      "python",
+      "web framework"
+    ],
+    "closed": 137,
+    "merged": 181
+  },
+  {
+    "repo": "mongodb/mongo",
+    "tags": [
+      "c++",
+      "database"
+    ],
+    "closed": 210,
+    "merged": 93
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "tags": [
+      "javascript",
+      "3d"
+    ],
+    "closed": 296,
+    "merged": 319
+  },
+  {
+    "repo": "nathanmarz/storm",
+    "tags": [
+      "java",
+      "realtime computing"
+    ],
+    "closed": 79,
+    "merged": 98
+  },
+  {
+    "repo": "nex3/sass",
+    "tags": [
+      "javascript",
+      "stylesheet language"
+    ],
+    "closed": 73,
+    "merged": 45
+  },
+  {
+    "repo": "petdance/ack",
+    "tags": [
+      "perl",
+      "util"
+    ],
+    "closed": 28,
+    "merged": 13
+  },
+  {
+    "repo": "pivotal/jasmine",
+    "tags": [
+      "javascript",
+      "testing framework"
+    ],
+    "closed": 71,
+    "merged": 36
+  },
+  {
+    "repo": "rails/rails",
+    "tags": [
+      "ruby",
+      "mv*"
+    ],
+    "closed": 2186,
+    "merged": 4039
+  },
+  {
+    "repo": "scala/scala",
+    "tags": [
+      "scala",
+      "language"
+    ],
+    "closed": 620,
+    "merged": 1808
+  },
+  {
+    "repo": "scalatra/scalatra",
+    "tags": [
+      "scala",
+      "web framework"
+    ],
+    "closed": 12,
+    "merged": 98
+  },
+  {
+    "repo": "sinatra/sinatra",
+    "tags": [
+      "ruby",
+      "web framework"
+    ],
+    "closed": 143,
+    "merged": 208
+  },
+  {
+    "repo": "symfony/symfony",
+    "tags": [
+      "php",
+      "mv*"
+    ],
+    "closed": 1970,
+    "merged": 3211
+  },
+  {
+    "repo": "textmate/textmate",
+    "tags": [
+      "c++",
+      "text editor"
+    ],
+    "closed": 140,
+    "merged": 19
+  },
+  {
+    "repo": "visionmedia/express",
+    "tags": [
+      "javascript",
+      "node.js",
+      "web framework"
+    ],
+    "closed": 155,
+    "merged": 97
+  },
+  {
+    "repo": "visionmedia/jade",
+    "tags": [
+      "javascript",
+      "template engine"
+    ],
+    "closed": 138,
+    "merged": 115
+  },
+  {
+    "repo": "visionmedia/mocha",
+    "tags": [
+      "javascript",
+      "testing framework"
+    ],
+    "closed": 138,
+    "merged": 146
+  },
+  {
+    "repo": "wycats/handlebars.js",
+    "tags": [
+      "javascript",
+      "template engine"
+    ],
+    "closed": 49,
+    "merged": 89
+  },
+  {
+    "repo": "yesodweb/yesod",
+    "tags": [
+      "haskell",
+      "web framework"
+    ],
+    "closed": 36,
+    "merged": 138
+  },
+  {
+    "repo": "zendframework/zf2",
+    "tags": [
+      "php",
+      "mv*"
+    ],
+    "closed": 1915,
+    "merged": 1736
+  }
 ]
