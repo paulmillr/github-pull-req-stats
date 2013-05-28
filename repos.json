@@ -188,6 +188,15 @@
     ]
   },
   {
+    "repo": "gkz/LiveScript",
+    "language": "LiveScript",
+    "closed": 8,
+    "merged": 32,
+    "tags": [
+      "programming language"
+    ]
+  },
+  {
     "repo": "gruntjs/grunt",
     "language": "javascript",
     "closed": 181,
