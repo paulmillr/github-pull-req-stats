@@ -1,426 +1,426 @@
 [
   {
     "repo": "AFNetworking/AFNetworking",
-    "tags": [
-      "objective-c",
-      "http"
-    ],
+    "language": "objective-c",
     "closed": 224,
-    "merged": 201
-  },
-  {
-    "repo": "akka/akka",
+    "merged": 201,
     "tags": [
-      "scala",
-      "distributed framework"
-    ],
-    "closed": 178,
-    "merged": 1248
+      "http"
+    ]
   },
   {
     "repo": "LearnBoost/stylus",
-    "tags": [
-      "javascript",
-      "stylesheet language"
-    ],
+    "language": "javascript",
     "closed": 53,
-    "merged": 125
+    "merged": 125,
+    "tags": [
+      "stylesheet language"
+    ]
   },
   {
     "repo": "NancyFx/Nancy",
-    "tags": [
-      "c#",
-      "http"
-    ],
+    "language": "c#",
     "closed": 171,
-    "merged": 518
+    "merged": 518,
+    "tags": [
+      "http"
+    ]
   },
   {
     "repo": "RestKit/RestKit",
-    "tags": [
-      "objective-c",
-      "rest"
-    ],
+    "language": "objective-c",
     "closed": 238,
-    "merged": 108
+    "merged": 108,
+    "tags": [
+      "rest"
+    ]
   },
   {
     "repo": "addyosmani/backbone-fundamentals",
+    "closed": 35,
+    "merged": 239,
     "tags": [
       "book"
-    ],
-    "closed": 35,
-    "merged": 239
+    ]
+  },
+  {
+    "repo": "akka/akka",
+    "language": "scala",
+    "closed": 178,
+    "merged": 1248,
+    "tags": [
+      "distributed framework"
+    ]
   },
   {
     "repo": "angular/angular.js",
-    "tags": [
-      "javascript",
-      "web framework"
-    ],
+    "language": "javascript",
     "closed": 905,
-    "merged": 164
+    "merged": 164,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "antirez/redis",
-    "tags": [
-      "c",
-      "database"
-    ],
+    "language": "c",
     "closed": 136,
-    "merged": 106
+    "merged": 106,
+    "tags": [
+      "database"
+    ]
   },
   {
     "repo": "aurajs/aura",
-    "tags": [
-      "javascript",
-      "web framework"
-    ],
+    "language": "javascript",
     "closed": 29,
-    "merged": 80
+    "merged": 80,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "bestiejs/lodash",
-    "tags": [
-      "javascript",
-      "util"
-    ],
+    "language": "javascript",
     "closed": 30,
-    "merged": 18
+    "merged": 18,
+    "tags": [
+      "util"
+    ]
   },
   {
     "repo": "brunch/brunch",
-    "tags": [
-      "javascript",
-      "build tool"
-    ],
+    "language": "javascript",
     "closed": 42,
-    "merged": 71
+    "merged": 71,
+    "tags": [
+      "build tool"
+    ]
   },
   {
     "repo": "chaplinjs/chaplin",
-    "tags": [
-      "coffeescript",
-      "web framework"
-    ],
+    "language": "coffeescript",
     "closed": 52,
-    "merged": 204
+    "merged": 204,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "cloudhead/less.js",
-    "tags": [
-      "javascript",
-      "stylesheet language"
-    ],
+    "language": "javascript",
     "closed": 231,
-    "merged": 64
+    "merged": 64,
+    "tags": [
+      "stylesheet language"
+    ]
   },
   {
     "repo": "django/django",
-    "tags": [
-      "python",
-      "web framework"
-    ],
+    "language": "python",
     "closed": 719,
-    "merged": 295
+    "merged": 295,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "documentcloud/backbone",
-    "tags": [
-      "javascript",
-      "web framework"
-    ],
+    "language": "javascript",
     "closed": 124,
-    "merged": 477
+    "merged": 477,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "documentcloud/underscore",
-    "tags": [
-      "javascript",
-      "util"
-    ],
+    "language": "javascript",
     "closed": 309,
-    "merged": 178
+    "merged": 178,
+    "tags": [
+      "util"
+    ]
   },
   {
     "repo": "elasticsearch/elasticsearch",
-    "tags": [
-      "java",
-      "database"
-    ],
+    "language": "java",
     "closed": 351,
-    "merged": 44
+    "merged": 44,
+    "tags": [
+      "database"
+    ]
   },
   {
     "repo": "emberjs/ember.js",
-    "tags": [
-      "javascript",
-      "web framework"
-    ],
+    "language": "javascript",
     "closed": 340,
-    "merged": 925
+    "merged": 925,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "evancz/Elm",
-    "tags": [
-      "haskell",
-      "language"
-    ],
+    "language": "haskell",
     "closed": 11,
-    "merged": 46
+    "merged": 46,
+    "tags": [
+      "language"
+    ]
   },
   {
     "repo": "facebook/hiphop-php",
-    "tags": [
-      "c++",
-      "transpiler"
-    ],
+    "language": "c++",
     "closed": 50,
-    "merged": 12
+    "merged": 12,
+    "tags": [
+      "transpiler"
+    ]
   },
   {
     "repo": "faylang/fay",
-    "tags": [
-      "haskell",
-      "language"
-    ],
+    "language": "haskell",
     "closed": 41,
-    "merged": 34
+    "merged": 34,
+    "tags": [
+      "language"
+    ]
   },
   {
     "repo": "gruntjs/grunt",
-    "tags": [
-      "javascript",
-      "build tool"
-    ],
+    "language": "javascript",
     "closed": 181,
-    "merged": 27
+    "merged": 27,
+    "tags": [
+      "build tool"
+    ]
   },
   {
     "repo": "jashkenas/coffee-script",
-    "tags": [
-      "coffeescript",
-      "language"
-    ],
+    "language": "coffeescript",
     "closed": 165,
-    "merged": 215
+    "merged": 215,
+    "tags": [
+      "language"
+    ]
   },
   {
     "repo": "joyent/node",
-    "tags": [
-      "javascript",
-      "node.js"
-    ],
+    "language": "javascript",
     "closed": 1733,
-    "merged": 112
+    "merged": 112,
+    "tags": [
+      "node.js"
+    ]
   },
   {
     "repo": "kennethreitz/requests",
-    "tags": [
-      "python",
-      "http"
-    ],
+    "language": "python",
     "closed": 188,
-    "merged": 475
+    "merged": 475,
+    "tags": [
+      "http"
+    ]
   },
   {
     "repo": "kraih/mojo",
-    "tags": [
-      "perl",
-      "web framework"
-    ],
+    "language": "perl",
     "closed": 162,
-    "merged": 58
+    "merged": 58,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "marionettejs/backbone.marionette",
-    "tags": [
-      "javascript",
-      "web framework"
-    ],
+    "language": "javascript",
     "closed": 106,
-    "merged": 151
+    "merged": 151,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "mikeal/request",
+    "language": "javascript",
+    "closed": 70,
+    "merged": 132,
     "tags": [
-      "javascript",
       "node.js",
       "http"
-    ],
-    "closed": 70,
-    "merged": 132
+    ]
   },
   {
     "repo": "mitsuhiko/flask",
-    "tags": [
-      "python",
-      "web framework"
-    ],
+    "language": "python",
     "closed": 137,
-    "merged": 181
+    "merged": 181,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "mongodb/mongo",
-    "tags": [
-      "c++",
-      "database"
-    ],
+    "language": "c++",
     "closed": 210,
-    "merged": 93
+    "merged": 93,
+    "tags": [
+      "database"
+    ]
   },
   {
     "repo": "mrdoob/three.js",
-    "tags": [
-      "javascript",
-      "3d"
-    ],
+    "language": "javascript",
     "closed": 296,
-    "merged": 319
+    "merged": 319,
+    "tags": [
+      "3d"
+    ]
   },
   {
     "repo": "nathanmarz/storm",
-    "tags": [
-      "java",
-      "realtime computing"
-    ],
+    "language": "java",
     "closed": 79,
-    "merged": 98
+    "merged": 98,
+    "tags": [
+      "realtime computing"
+    ]
   },
   {
     "repo": "nex3/sass",
-    "tags": [
-      "javascript",
-      "stylesheet language"
-    ],
+    "language": "javascript",
     "closed": 73,
-    "merged": 45
+    "merged": 45,
+    "tags": [
+      "stylesheet language"
+    ]
   },
   {
     "repo": "petdance/ack",
-    "tags": [
-      "perl",
-      "util"
-    ],
+    "language": "perl",
     "closed": 28,
-    "merged": 13
+    "merged": 13,
+    "tags": [
+      "util"
+    ]
   },
   {
     "repo": "pivotal/jasmine",
-    "tags": [
-      "javascript",
-      "testing framework"
-    ],
+    "language": "javascript",
     "closed": 71,
-    "merged": 36
+    "merged": 36,
+    "tags": [
+      "testing framework"
+    ]
   },
   {
     "repo": "rails/rails",
-    "tags": [
-      "ruby",
-      "web framework"
-    ],
+    "language": "ruby",
     "closed": 2186,
-    "merged": 4039
+    "merged": 4039,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "scala/scala",
-    "tags": [
-      "scala",
-      "language"
-    ],
+    "language": "scala",
     "closed": 620,
-    "merged": 1808
+    "merged": 1808,
+    "tags": [
+      "language"
+    ]
   },
   {
     "repo": "scalatra/scalatra",
-    "tags": [
-      "scala",
-      "web framework"
-    ],
+    "language": "scala",
     "closed": 12,
-    "merged": 98
+    "merged": 98,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "sinatra/sinatra",
-    "tags": [
-      "ruby",
-      "web framework"
-    ],
+    "language": "ruby",
     "closed": 143,
-    "merged": 208
+    "merged": 208,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "symfony/symfony",
-    "tags": [
-      "php",
-      "web framework"
-    ],
+    "language": "php",
     "closed": 1970,
-    "merged": 3211
+    "merged": 3211,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "textmate/textmate",
-    "tags": [
-      "c++",
-      "text editor"
-    ],
+    "language": "c++",
     "closed": 140,
-    "merged": 19
+    "merged": 19,
+    "tags": [
+      "text editor"
+    ]
   },
   {
     "repo": "visionmedia/express",
+    "language": "javascript",
+    "closed": 155,
+    "merged": 97,
     "tags": [
-      "javascript",
       "node.js",
       "web framework"
-    ],
-    "closed": 155,
-    "merged": 97
+    ]
   },
   {
     "repo": "visionmedia/jade",
-    "tags": [
-      "javascript",
-      "template engine"
-    ],
+    "language": "javascript",
     "closed": 138,
-    "merged": 115
+    "merged": 115,
+    "tags": [
+      "template engine"
+    ]
   },
   {
     "repo": "visionmedia/mocha",
-    "tags": [
-      "javascript",
-      "testing framework"
-    ],
+    "language": "javascript",
     "closed": 138,
-    "merged": 146
+    "merged": 146,
+    "tags": [
+      "testing framework"
+    ]
   },
   {
     "repo": "wycats/handlebars.js",
-    "tags": [
-      "javascript",
-      "template engine"
-    ],
+    "language": "javascript",
     "closed": 49,
-    "merged": 89
+    "merged": 89,
+    "tags": [
+      "template engine"
+    ]
   },
   {
     "repo": "yesodweb/yesod",
-    "tags": [
-      "haskell",
-      "web framework"
-    ],
+    "language": "haskell",
     "closed": 36,
-    "merged": 138
+    "merged": 138,
+    "tags": [
+      "web framework"
+    ]
   },
   {
     "repo": "zendframework/zf2",
-    "tags": [
-      "php",
-      "web framework"
-    ],
+    "language": "php",
     "closed": 1915,
-    "merged": 1736
+    "merged": 1736,
+    "tags": [
+      "web framework"
+    ]
   }
 ]
