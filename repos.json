@@ -9,6 +9,15 @@
     "merged": 201
   },
   {
+    "repo": "akka/akka",
+    "tags": [
+      "scala",
+      "distributed framework"
+    ],
+    "closed": 178,
+    "merged": 1248
+  },
+  {
     "repo": "LearnBoost/stylus",
     "tags": [
       "javascript",
@@ -44,17 +53,10 @@
     "merged": 239
   },
   {
-    "repo": "akka/akka",
-    "tags": [
-      "scala",
-      "distributed framework"
-    ]
-  },
-  {
     "repo": "angular/angular.js",
     "tags": [
       "javascript",
-      "mv*"
+      "web framework"
     ],
     "closed": 905,
     "merged": 164
@@ -72,7 +74,7 @@
     "repo": "aurajs/aura",
     "tags": [
       "javascript",
-      "mv*"
+      "web framework"
     ],
     "closed": 29,
     "merged": 80
@@ -99,7 +101,7 @@
     "repo": "chaplinjs/chaplin",
     "tags": [
       "coffeescript",
-      "mv*"
+      "web framework"
     ],
     "closed": 52,
     "merged": 204
@@ -114,10 +116,19 @@
     "merged": 64
   },
   {
+    "repo": "django/django",
+    "tags": [
+      "python",
+      "web framework"
+    ],
+    "closed": 719,
+    "merged": 295
+  },
+  {
     "repo": "documentcloud/backbone",
     "tags": [
       "javascript",
-      "mv*"
+      "web framework"
     ],
     "closed": 124,
     "merged": 477
@@ -144,7 +155,7 @@
     "repo": "emberjs/ember.js",
     "tags": [
       "javascript",
-      "mv*"
+      "web framework"
     ],
     "closed": 340,
     "merged": 925
@@ -225,7 +236,7 @@
     "repo": "marionettejs/backbone.marionette",
     "tags": [
       "javascript",
-      "mv*"
+      "web framework"
     ],
     "closed": 106,
     "merged": 151
@@ -307,7 +318,7 @@
     "repo": "rails/rails",
     "tags": [
       "ruby",
-      "mv*"
+      "web framework"
     ],
     "closed": 2186,
     "merged": 4039
@@ -343,7 +354,7 @@
     "repo": "symfony/symfony",
     "tags": [
       "php",
-      "mv*"
+      "web framework"
     ],
     "closed": 1970,
     "merged": 3211
@@ -407,7 +418,7 @@
     "repo": "zendframework/zf2",
     "tags": [
       "php",
-      "mv*"
+      "web framework"
     ],
     "closed": 1915,
     "merged": 1736
