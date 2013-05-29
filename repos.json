@@ -71,6 +71,17 @@
     ]
   },
   {
+    "repo": "appcelerator/alloy",
+    "language": "javascript",
+    "closed": 33,
+    "merged": 66,
+    "tags": [
+      "mvc framework",
+      "mobile",
+      "node.js"
+    ]
+  },
+  {
     "repo": "aurajs/aura",
     "language": "javascript",
     "closed": 29,
