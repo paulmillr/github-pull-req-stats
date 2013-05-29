@@ -344,6 +344,15 @@
     ]
   },
   {
+    "repo": "saltstack/salt",
+    "language": "python",
+    "closed": 171,
+    "merged": 2876,
+    "tags": [
+      "util"
+    ]
+  },
+  {
     "repo": "scala/scala",
     "language": "scala",
     "closed": 620,
