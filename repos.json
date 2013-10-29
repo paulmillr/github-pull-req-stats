@@ -71,6 +71,17 @@
     ]
   },
   {
+    "repo": "appcelerator/alloy",
+    "language": "javascript",
+    "closed": 33,
+    "merged": 66,
+    "tags": [
+      "web framework",
+      "mobile",
+      "node.js"
+    ]
+  },
+  {
     "repo": "aurajs/aura",
     "language": "javascript",
     "closed": 29,
@@ -330,6 +341,15 @@
     "merged": 4039,
     "tags": [
       "web framework"
+    ]
+  },
+  {
+    "repo": "saltstack/salt",
+    "language": "python",
+    "closed": 171,
+    "merged": 2876,
+    "tags": [
+      "util"
     ]
   },
   {
