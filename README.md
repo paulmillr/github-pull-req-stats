@@ -1,6 +1,6 @@
 # GitHub pull requests data miner
 
-Stats from GitHub repos about accepted / closed pull requests.
+Stats from GitHub repos about accepted or closed pull requests.
 
 ## Add your project
 
