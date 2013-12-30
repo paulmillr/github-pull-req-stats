@@ -12,4 +12,4 @@ Just edit `repos.json` and add your project to the bottom, with tags and stuff, 
 
 ## License
 
-MIT (http://paulmillr.com)
+MIT <http://paulmillr.com>
